@@ -1,0 +1,15 @@
+Python 3.7+
+
+Webcam
+
+Dependencies:
+
+OpenCV
+
+MediaPipe
+
+Pygame
+
+Pillow
+
+NumPy
